@@ -1,6 +1,7 @@
 import Nav from './pages/nav';
 import Home from './pages/home';
 import About from './pages/about';
+import Project from './pages/project';
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Nav></Nav>
       <Home></Home>
       <About></About>
+      <Project></Project>
     </div>
   );
 }

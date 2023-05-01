@@ -1,6 +1,6 @@
 .about-container{
 
-    background-color:rgb(247, 247, 247);
+    background-color:rgb(250, 250, 250);
     height: 600px;
    
     
@@ -42,7 +42,7 @@
     margin-right: 50%;
     margin-left:5%;
     text-decoration: underline;
-    text-decoration-color: rgb(177, 75, 218);
+    text-decoration-color: rgb(169, 55, 214);
     
 }
 
@@ -62,7 +62,7 @@
     font-size: 25px;
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-color: rgb(213, 162, 233);
+    text-decoration-color: rgb(209, 48, 169);
     
     
 }
@@ -71,7 +71,7 @@
 
     display: flex;
     flex:1;
-    border: 1px solid rgb(161, 221, 230);;
+    border: 1px solid rgb(0, 172, 224);;
     border-radius: 5px;
     background-color: rgb(161, 221, 230);
     height: 40px;
@@ -106,12 +106,12 @@
         
         font-size: 20px;
         font-weight: bold;
-        margin-right: 50%;
+        
         margin-left:11%;
         text-decoration: underline;
         text-decoration-color: rgb(177, 75, 218);
         display: flex;
-        justify-content: center;
+        justify-content: flex-start;
         
     }
     
@@ -128,7 +128,8 @@
     }
     .about-info-header-skills{
         display: flex;
-        justify-content: center;
+        justify-content: flex-start;
+        margin-left:11%;
         font-size: 20px;
         font-weight: bold;
         text-decoration: underline;
