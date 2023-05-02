@@ -67,6 +67,8 @@ export function project(){
                 <br/>
                 <br/>
                 <div className='codeButton'>View code</div>
+                <br/>
+                <br/>
             </div>
             </div>
         </div>

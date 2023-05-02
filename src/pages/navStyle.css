@@ -27,7 +27,7 @@
     flex-direction: "column";
     justify-content: flex-end;
     align-items: center;
-    color: black;
+    color: rgb(54, 54, 54); 
     font-weight: bold;
     cursor: pointer;
     
